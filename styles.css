@@ -3,7 +3,14 @@ p {
 }
 
 img {
-  width: 5%;
-  height: 5%;
-  padding: auto;
+  width: 2px;
+  height: 2px;
+  float: left;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  height: fit-content;
+  perspective: 10px;
 }
