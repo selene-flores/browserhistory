@@ -1,9 +1,7 @@
-p {
-  color: black;
+a.nav-link {
+  color: white;
 }
 
-img {
-  width: 5%;
-  height: 5%;
-  padding: auto;
+h1, h3 {
+  color: cornflowerblue;
 }
